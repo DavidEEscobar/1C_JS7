@@ -1,0 +1,2 @@
+
+introducir un numero(n), generar un arreglo de n elementos que tengan numeros menores a 10 y mostrar cual se repite mas 
